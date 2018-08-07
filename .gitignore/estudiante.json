@@ -1,0 +1,16 @@
+[
+   {
+      "nombre":"Josué",
+      "departamento":"TICs",
+      "cargo":"desarrollador",
+      "email":"josue.cando@epn.edu.ec",
+      "genero":"Masculino",
+      "direccion":[
+         "Loma de puengasi",
+         "Calle D",
+         54
+
+      ],
+      "telefono":"0984254187"
+   }
+]
